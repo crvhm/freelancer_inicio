@@ -5,7 +5,7 @@
     --secundario: #0097a7;
     --gris: #757575;
 
-    --fuente-principal: 3.8rem;
+    --fuente-principal-size: 3.8rem;
 }
 
 html{
@@ -17,7 +17,7 @@ body{
 }
 .titulo {
     text-align: center;
-    font-size: var(--fuente-principal);
+    font-size: var(--fuente-principal-size);
     color: var(--oscuro);
     font-family: 'Caveat', cursive;
     font-weight: normal;
